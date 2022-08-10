@@ -1,1 +1,1 @@
-# LZ77-Compression-Algo
+# Tzip
